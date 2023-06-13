@@ -6,6 +6,8 @@ The main purpose of this program is to prevent switching back to your own lcoal 
 
 Specially made for Blue Protocol JP release for SoftEther VPN overseas users -> prevent ip leak to Bandai Namco if/when vpn disconnects due to instability.
 
+Dedicated and made for to the Umbrage SG community :)
+
 ## Usage
 1. Find your default gateway ip (ipconfig) and vpn ip (softether vpn client)
 2. Edit config.txt with your gateway and vpn ip
