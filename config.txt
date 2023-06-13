@@ -1,0 +1,12 @@
+gateway-ip:192.168.0.1
+vpn-ip:219.100.37.63
+
+
+edit the above ips accordingly
+
+the main purpose of this program
+is to not automatically switch back to
+your own lcoal connection upon unstable vpn disconnect
+-> prevent leaking your local public ip
+
+~written by dolicon~
